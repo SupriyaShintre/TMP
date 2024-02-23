@@ -1,0 +1,118 @@
+nav{
+    border-color: rgb(149, 147, 147);
+    font-size: 20px;
+    background-color: #D8BFD8;
+    padding: 10px 10px;
+    text-align: center;
+}
+.style1{
+    text-align: center;
+    
+   background-color:  #D8BFD8;
+    
+    padding: 10px 10px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-family:  'Rubik Doodle Shadow';
+    text-decoration: solid;
+
+}
+.box{
+    display: grid;
+    align-items:flex-start;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    
+
+}
+.boxx{
+    display: grid;
+    align-items:flex-start;
+    grid-template-columns:  8fr 8fr 8fr;
+    column-gap: 3px;
+}
+
+.design4{
+margin-top: 50px;
+box-shadow:rgb(146, 68, 68);
+
+}
+
+
+.form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+.submit{
+
+border-radius: 10px;
+
+}
+.desing3{
+    line-height: 30px;
+    margin-top: 50px;
+   
+}
+button{
+    background-color: rgb(99, 93, 93);
+    color: white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.design5{
+    
+    display: grid;
+    align-items:flex-start;
+    grid-template-columns: 5fr 5fr 5fr;
+    column-gap: 30px;
+    
+
+
+
+}
+.design7{
+
+text-decoration: solid;
+font-family:Abril Fatface;
+color: black;
+font-size: Xlarge;
+
+
+
+}
+.style8{
+
+    margin-left: 80px;
+    width: 400px;
+}
+.stylee1{
+    height: 600px;
+    
+    border-top: 0px;
+    background-image: url(https://media.istockphoto.com/id/155439315/photo/passenger-airplane-flying-above-clouds-during-sunset.webp?b=1&s=170667a&w=0&k=20&c=0ptevX36IqBQM1P4PoCycpe8Vj-QAhITR7oNn9R991g=) ;
+    background-repeat: no-repeat;
+   background-size: 100% 100%;
+   
+    
+    
+}
+.heding{
+    margin-top: 0px;
+    text-align: center;
+    font-family: Abril Fatface;
+    
+}
+.gradient{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+h3{
+    font-family: Abril Fatface;
+}
